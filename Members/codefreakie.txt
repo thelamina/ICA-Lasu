@@ -1,2 +1,2 @@
 Name: Itunu Lamina
-Programming Skills: C#, Python
+Skill:Python, .NET
