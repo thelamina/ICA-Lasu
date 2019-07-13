@@ -1,3 +1,4 @@
-Name: Ajao Al-Amin
-Skills: js,node, express
+Name: Ajao Al-Amin,
+Skills: js,node, express,
+complexion: fair
 
