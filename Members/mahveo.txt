@@ -1,2 +1,2 @@
 Name: Osuolale Marvellous
-Skills: Python
+Skills: Python -2
