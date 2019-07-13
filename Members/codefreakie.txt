@@ -1,2 +1,2 @@
 Name: Itunu Lamina
-Programming Skills: .txt
+Skill:Python, .NET
